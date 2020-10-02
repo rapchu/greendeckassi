@@ -12,7 +12,7 @@ with open("readme.txt", "r") as fh:
 
 setuptools.setup(
                 
-                 name="greekdeckassi",
+                 name="greendeckassi",
             
                  version="0.0.1",
                  

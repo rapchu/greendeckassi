@@ -7,6 +7,7 @@ SpreadSheet objects are collections of WorkSheets, which provide access to the c
 
 Save WorkSheets (or all from a SpreadSheet) as CSV files with the .to_csv()-method. Create pandas.DataFrames from worksheet with the .to_frame()-method.
 Links
+
 GitHub: https://github.com/xflr6/gsheets
 
 PyPI: https://pypi.org/project/gsheets/
